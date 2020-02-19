@@ -1,0 +1,11 @@
+E:\ProyectosdeProgramacion\Csharp\Estudio\bin\Debug\netcoreapp3.1\Estudio.exe
+E:\ProyectosdeProgramacion\Csharp\Estudio\bin\Debug\netcoreapp3.1\Estudio.deps.json
+E:\ProyectosdeProgramacion\Csharp\Estudio\bin\Debug\netcoreapp3.1\Estudio.runtimeconfig.json
+E:\ProyectosdeProgramacion\Csharp\Estudio\bin\Debug\netcoreapp3.1\Estudio.runtimeconfig.dev.json
+E:\ProyectosdeProgramacion\Csharp\Estudio\bin\Debug\netcoreapp3.1\Estudio.dll
+E:\ProyectosdeProgramacion\Csharp\Estudio\bin\Debug\netcoreapp3.1\Estudio.pdb
+E:\ProyectosdeProgramacion\Csharp\Estudio\obj\Debug\netcoreapp3.1\Estudio.csprojAssemblyReference.cache
+E:\ProyectosdeProgramacion\Csharp\Estudio\obj\Debug\netcoreapp3.1\Estudio.AssemblyInfoInputs.cache
+E:\ProyectosdeProgramacion\Csharp\Estudio\obj\Debug\netcoreapp3.1\Estudio.AssemblyInfo.cs
+E:\ProyectosdeProgramacion\Csharp\Estudio\obj\Debug\netcoreapp3.1\Estudio.dll
+E:\ProyectosdeProgramacion\Csharp\Estudio\obj\Debug\netcoreapp3.1\Estudio.pdb
